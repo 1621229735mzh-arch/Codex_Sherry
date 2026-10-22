@@ -1,0 +1,13 @@
+Use case: identity-preserve. Create one improved screen-right WALK/JOG sprite cycle for Haibara, exactly 8 distinct sequential full-body frames in a horizontal strip. Pure opaque flat #00FF00 background.
+References roles: Image 1 canonical character identity. Image 2 old sheet identity only, do NOT repeat its similar split-strides or sneaker shoes. Image 3 invisible 8-slot layout: use spacing only, no guides. Image 4 accepted IDLE row is the primary body-proportion reference; keep its exact head-to-body ratio and clothes.
+This cycle MUST visibly alternate wide-stride and NARROW/PASSING legs! The prior attempt failed because EVERY frame held one leg stretched forward; do not do that. We need true smooth directional gait mechanics. Calm little walking/jogging in place facing right; no athletic leap.
+Frame 1: near leg forward planted to right, far leg backward, moderate split stance. Near arm backward, far arm forward.
+Frame 2: forward near knee bends a little under body as far foot lifts; feet closer together.
+Frame 3: PASSING POSE: near leg straight beneath hips and far bent knee crossing rightward, two boots horizontally close together directly under body. Arms near body's sides.
+Frame 4: far foot moving forward for contact, near leg trails; far arm swings backward and near arm swings forward.
+Frame 5: OPPOSITE STRIDE: far leg forward to right, near leg backward left, mirror of frame1 limb phase, same right-facing body.
+Frame 6: far knee bends under body, near heel lifts and swings forward, feet closer together.
+Frame 7: PASSING POSE: far leg straight under hips and near bent knee crossing forward, two boots close under body. Arms near sides.
+Frame 8: near foot advances for return to frame1, far leg trailing.
+Keep exact same body construction and apparent scale as accepted idle, head about 40% full standing height rather than enormous 60%. Same chestnut bob, large blue eyes, WHITE laboratory coat, navy highneck short dress, navy socks, BROWN leather ankle boots with black soles on ALL sixteen feet. Clear black outline, restrained anime shading, same design every frame.
+All bodies face and travel SCREEN-RIGHT, gently upright, no turning toward viewer. Only limbs, minimal head bob and coat hem move. Fixed head-center x relative slot and stable ground baseline. Complete hair and boots, safe green margins, 8 well separated full figures with green vertical gaps. No character overlap, skipped/extra frame, text, labels, guide, scenery, shadow, ground, motion effects, trails, dust, props, sneakers or white shoes. Wide panoramic strip.

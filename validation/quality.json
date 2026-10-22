@@ -1,0 +1,63 @@
+{
+  "ok": true,
+  "atlas": "assets/sherry.png",
+  "encoded_bytes": 2264807,
+  "sha256": "0021d6e213686029ec9e0d62d3e427196a4b6eb9d0f0cb04563d344116beb5a2",
+  "jump": {
+    "idle_baseline": 203,
+    "jump_baselines": [
+      203,
+      196,
+      190,
+      195,
+      203
+    ],
+    "airborne_lift_pixels": 13,
+    "landing_delta_pixels": 0
+  },
+  "look_registration": {
+    "neutral_center_x": 94.5,
+    "look_centers_x": [
+      94.5,
+      92.0,
+      92.0,
+      92.5,
+      94.0,
+      96.0,
+      97.0,
+      96.0,
+      93.5,
+      91.5,
+      92.5,
+      92.5,
+      94.5,
+      98.0,
+      97.5,
+      97.5
+    ],
+    "look_widths": [
+      83,
+      82,
+      82,
+      83,
+      82,
+      82,
+      82,
+      80,
+      83,
+      83,
+      85,
+      85,
+      87,
+      84,
+      83,
+      81
+    ],
+    "maximum_center_drift_pixels": 3.5,
+    "maximum_width_ratio": 1.0875
+  },
+  "errors": [],
+  "warnings": [
+    "157.5->180 diff is a local outlier (1713 pixels vs neighbor average 1068)"
+  ]
+}

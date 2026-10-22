@@ -1,0 +1,38 @@
+# Local creation archive: references, rejected candidates, extracted frames and logs
+/Library/
+
+# Python environments and generated caches
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.cache/
+build/
+dist/
+*.egg-info/
+
+# Local settings and credentials
+.env
+.env.*
+!.env.example
+.codex/
+.agents/
+.aws/
+.idea/
+.vscode/
+*.local.json
+*.local.toml
+
+# Temporary outputs; curated final assets and previews are intentionally tracked
+tmp/
+temp/
+*.tmp
+*.log
+*.bak
+/previews/preview-report.json
+.DS_Store
+Thumbs.db
+Desktop.ini
